@@ -19,6 +19,7 @@ I'm a graduate in Computer Engineering from The Copperbelt University. I'm a pas
 🛠️ I’m currently working with Javascript, Typescript, React, MySQL, Javascript, etc.
 🌱 I’m currently learning Full Stack Development as well as WordPress.
 📫 How to reach me: mwansammwansa@gmail.com.
+Fun Fact: 
 
 My Absolute Favorites:
 
@@ -32,6 +33,6 @@ cpp python javascript nodejs expressjs react graphql sql mongodb git terminal
 
 Projects and Dev Stuffs:
 
-⚡ Github Stats [![Mwansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwansasquared)](https://github.com/Mwansasquared/github-readme-stats)
+⚡ Github Stats ![Mwansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwansasquared&show_icons=true&theme=radical)
 
 ☄️ Github Streaks
