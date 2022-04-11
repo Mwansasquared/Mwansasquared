@@ -21,13 +21,15 @@ I'm a graduate in Computer Engineering from The Copperbelt University. I'm a pas
 📫 How to reach me: mwansammwansa@gmail.com.
 
 My Absolute Favorites:
+
 💻 I love exploring new tech stack and building cool stuffs.
 📰 Reading & writing tech blogs whenever possible.
 🍕 Hackathons, meetups & tech events.
 
 Languages and Tools:
+
 cpp python javascript nodejs expressjs react graphql sql mongodb git terminal
 
 Projects and Dev Stuffs:
-⚡ Github Stats
+⚡ [![Mwansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwansasquared)](https://github.com/Mwansasquared/github-readme-stats)
 ☄️ Github Streaks
