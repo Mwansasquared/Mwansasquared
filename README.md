@@ -31,5 +31,7 @@ Languages and Tools:
 cpp python javascript nodejs expressjs react graphql sql mongodb git terminal
 
 Projects and Dev Stuffs:
-⚡ [![Mwansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwansasquared)](https://github.com/Mwansasquared/github-readme-stats)
+
+⚡ Github Stats [![Mwansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwansasquared)](https://github.com/Mwansasquared/github-readme-stats)
+
 ☄️ Github Streaks
