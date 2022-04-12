@@ -25,7 +25,7 @@ I'm a graduate in Computer Engineering from The Copperbelt University. I'm a pas
 
 ▫️ 📫 How to reach me: mwansammwansa@gmail.com.
 
-▫️ 👾 Fun Fact: 
+▫️ 👾 Fun Fact: People are more creative in the shower.
 
 ### My Absolute Favorites:
 
