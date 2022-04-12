@@ -37,13 +37,10 @@ I'm a graduate in Computer Engineering from The Copperbelt University. I'm a pas
 
 ### Languages and Tools:
 
-cpp python javascript nodejs ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) git terminal 
+cpp python ![Javascript](https://www.github.com/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png) nodejs ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) git terminal 
 
 ## Projects and Dev Stuffs:
 
-▫️ ⚡ Github Stats: 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwansasquared&show_icons=true&theme=radical)
 
-
-   ![Mwansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwansasquared&show_icons=true&theme=radical)
-
-▫️ ☄️ Github Streaks
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mwansasquared)](https://git.io/streak-stats)
