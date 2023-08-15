@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Mwansa Mwansa.
 
-I'm a graduate in Computer Engineering from The Copperbelt University. I'm a passionate learner who's always willing to learn and work across technologies and domains bulb. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a graduate of Computer Engineering from The Copperbelt University. I'm a passionate learner who's always willing to learn and work across technologies and domains bulb. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 
 ### Talking about Personal Stuff:
@@ -30,3 +30,4 @@ I'm a graduate in Computer Engineering from The Copperbelt University. I'm a pas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwansasquared&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mwansasquared)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mwansasquared)](https://git.io/streak-stats)
