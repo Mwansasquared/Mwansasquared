@@ -28,5 +28,6 @@ I'm a graduate of Computer Engineering from The Copperbelt University. I'm a pas
 ## Projects and Dev Stuff:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwansasquared&show_icons=true&theme=radical)
+[![Mwansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwansasquared)](https://github.com/Mwansasquared/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mwansasquared)](https://git.io/streak-stats)
