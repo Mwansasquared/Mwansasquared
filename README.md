@@ -5,9 +5,9 @@ I'm a graduate of Computer Engineering from The Copperbelt University. I'm a pas
 
 ### Talking about Personal Stuff:
 
-▫️ 🛠️ I’m currently working with Javascript, Typescript, React, MySQL, Javascript, etc.
+▫️ 🛠️ I’m currently working with Java Springboot, Flutter, NodeJS, Javascript, React, MySQL, and MongoDB etc.
 
-▫️ 🌱 I’m currently learning Full Stack Software Development as well as WordPress.
+▫️ 🌱 I’m a Full Stack Software Development as well as WordPress.
 
 ▫️ 📫 How to reach me: mwansammwansa@gmail.com.
 
