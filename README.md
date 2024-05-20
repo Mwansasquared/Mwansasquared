@@ -27,6 +27,6 @@ I'm a software developer with a Bachelor's degree in Computer Engineering from T
 
 ## Projects and Dev Stuff:
 
-[![Mwansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwansasquared&show_icons=true&theme=radical)]
+![Mwansa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwansasquared&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mwansasquared)](https://git.io/streak-stats)
